@@ -10,4 +10,4 @@ This seminar covers various recent advancements from the Natural Language Proces
 * Learn how to write scientific publications\
 
 Role-playing Paper Reading \
-Every week we will thoroughly read and the selected paper(s) and discuss them. We will follow the role-playing setting inspired by the experience of Jacobson & Raffel.
+Every week this course will thoroughly read and the selected paper(s) and discuss them. We will follow the role-playing setting inspired by the experience of Jacobson & Raffel.
